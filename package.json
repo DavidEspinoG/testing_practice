@@ -1,0 +1,23 @@
+{
+  "name": "testing_practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "string.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidEspinoG/testing_practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidEspinoG/testing_practice/issues"
+  },
+  "homepage": "https://github.com/DavidEspinoG/testing_practice#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
